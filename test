@@ -717,7 +717,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dqfGMVo.jpg" group-title="MALAYSIA",group-title=🇲🇾|MALAYSIA CHANNEL tvg-id= tvg-logo=https://i.imgur.com/dqfGMVo.jpg,TRAVEL & TASTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EmI2ocW.jpg" group-title="MALAYSIA",group-title=🇲🇾|MALAYSIA CHANNEL tvg-id= tvg-logo=https://i.imgur.com/EmI2ocW.jpg,FILEM MANTAP
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EmI2ocW.jpg" group-title="MALAYSIA",FILEM MANTAP
 #EXTVLCOPT:http-user-agent=android-R+
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o0cn9xB.jpg" group-title="MALAYSIA",ZEE TAMIL
