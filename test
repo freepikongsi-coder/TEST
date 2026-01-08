@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uzZOAnw.jpg" group-title="MALAYSIA",TV1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uzZOAnw.jpg" group-title="ASTRO",TV1
 https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/py4ZVgQ.jpg" group-title="MALAYSIA",TV2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/py4ZVgQ.jpg" group-title="ASTRO",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my/
